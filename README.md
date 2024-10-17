@@ -5,6 +5,9 @@
 - [VueUse 文档](https://vueuse.org/)
 - [Vue3 入门指南与实战案例](https://vue3.chengpeiquan.com/)
 
+#### 文章
+- [浅读Vue3代码10万行，总结出30个代码规范](https://juejin.cn/post/7402811750771851275)
+
 #### 管理后台
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)
 - [vue-element-ui-admin(Vue3+ScriptSetup)](https://github.com/xusenlin/vue-element-ui-admin)

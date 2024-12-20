@@ -8,6 +8,7 @@
 
 #### 文章
 - [浅读Vue3代码10万行，总结出30个代码规范](https://juejin.cn/post/7402811750771851275)
+- [Vite6 +TypeScript+Vue3+Tailwind+ESlint+Prettier+Husky搭建企业级前端项目](https://juejin.cn/post/7449262777557336115)
 
 #### 管理后台
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better)

@@ -5,6 +5,7 @@
 - [VueUse 文档](https://vueuse.org/)
 - [Vue3 入门指南与实战案例](https://vue3.chengpeiquan.com/)
 - [搞懂 vue3 中 v-model 的用法](https://juejin.cn/post/7225133152489750587)
+- [alova](https://alova.js.org/zh-CN/)
 
 #### 文章
 - [浅读Vue3代码10万行，总结出30个代码规范](https://juejin.cn/post/7402811750771851275)

@@ -13,6 +13,7 @@
 
 #### 组件库
 - [view-shadcn-ui](https://view-shadcn-ui.devlive.org/)
+- [opentiny](https://opentiny.design/)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

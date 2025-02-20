@@ -12,6 +12,7 @@
 - [Vite6 +TypeScript+Vue3+Tailwind+ESlint+Prettier+Husky搭建企业级前端项目](https://juejin.cn/post/7449262777557336115)
 - [花了一天的时间，地板式扫盲了vue3所有API盲点](https://juejin.cn/post/7164159759619194893)
 - [最全系列的vue3入门教程](https://juejin.cn/post/7260070602614620221)
+- [Vue3必学技巧-自定义Hooks-让写Vue3更畅快](https://juejin.cn/post/7083401842733875208)
 
 #### 组件库
 - [view-shadcn-ui](https://view-shadcn-ui.devlive.org/)

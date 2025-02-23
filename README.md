@@ -19,6 +19,7 @@
 - [opentiny](https://opentiny.design/)
 - [arco.design](https://arco.design/)
 - [TDesign](https://tdesign.tencent.com/)
+- [vuestic](https://ui.vuestic.dev/)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

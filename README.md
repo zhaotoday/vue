@@ -23,6 +23,7 @@
 - [vuestic](https://ui.vuestic.dev/)
 - [vuetify](https://vuetifyjs.com/zh-Hans/)
 - [buefy](https://buefy.org/)
+- [mobvue](https://github.com/un-pany/mobvue)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

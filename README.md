@@ -24,6 +24,7 @@
 - [vuetify](https://vuetifyjs.com/zh-Hans/)
 - [buefy](https://buefy.org/)
 - [mobvue](https://github.com/un-pany/mobvue)
+- [quasar](https://github.com/quasarframework/quasar)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

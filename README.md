@@ -25,6 +25,7 @@
 - [buefy](https://buefy.org/)
 - [mobvue](https://github.com/un-pany/mobvue)
 - [quasar](https://github.com/quasarframework/quasar)
+- [vxe-pc-ui](https://github.com/x-extends/vxe-pc-ui)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

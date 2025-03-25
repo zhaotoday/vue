@@ -24,10 +24,12 @@
 - [vuestic](https://ui.vuestic.dev/)
 - [vuetify](https://vuetifyjs.com/zh-Hans/)
 - [buefy](https://buefy.org/)
-- [mobvue](https://github.com/un-pany/mobvue)
 - [quasar](https://github.com/quasarframework/quasar)
 - [vxe-pc-ui](https://github.com/x-extends/vxe-pc-ui)
 - [inspira-ui](https://inspira-ui.com/)
+
+#### 模板
+- [mobvue](https://github.com/un-pany/mobvue)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

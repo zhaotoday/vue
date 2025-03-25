@@ -8,6 +8,7 @@
 - [alova](https://alova.js.org/zh-CN/)
 
 #### 文章
+- [最近 React Scan 太火了，做了个 Vue Scan](https://juejin.cn/post/7444449353165488168)
 - [浅读Vue3代码10万行，总结出30个代码规范](https://juejin.cn/post/7402811750771851275)
 - [Vite6 +TypeScript+Vue3+Tailwind+ESlint+Prettier+Husky搭建企业级前端项目](https://juejin.cn/post/7449262777557336115)
 - [花了一天的时间，地板式扫盲了vue3所有API盲点](https://juejin.cn/post/7164159759619194893)

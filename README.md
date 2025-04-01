@@ -38,3 +38,4 @@
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)
 - [vue-data-ui](https://vue-data-ui.graphieros.com/)
 - [vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint)
+- [GoView](https://www.mtruning.club/)

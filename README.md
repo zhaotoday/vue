@@ -15,6 +15,7 @@
 - [最全系列的vue3入门教程](https://juejin.cn/post/7260070602614620221)
 - [Vue3必学技巧-自定义Hooks-让写Vue3更畅快](https://juejin.cn/post/7083401842733875208)
 - [🍍Pinia党福音，🍍Pinia伴侣：🍍pinia-colada](https://juejin.cn/post/7485188648485847040)
+- [Alova.js 现代化请求库完全指南](https://juejin.cn/post/7485631488113918006)
 
 #### UI 库
 - [primevue](https://primevue.org/)

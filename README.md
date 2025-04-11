@@ -35,6 +35,7 @@
 
 #### 模板
 - [mobvue](https://github.com/un-pany/mobvue)
+- [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 
 #### 开源
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)

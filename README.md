@@ -38,6 +38,7 @@
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 
 #### 开源
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)
 - [vue-data-ui](https://vue-data-ui.graphieros.com/)
 - [vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint)

@@ -30,6 +30,7 @@
 - [quasar](https://github.com/quasarframework/quasar)
 - [vxe-pc-ui](https://github.com/x-extends/vxe-pc-ui)
 - [inspira-ui](https://inspira-ui.com/)
+- [vue-amazing-ui](https://themusecatcher.github.io/vue-amazing-ui/)
 
 #### React UI 库
 - [9UI](https://www.9ui.dev/)

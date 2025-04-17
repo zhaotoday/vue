@@ -40,6 +40,7 @@
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 
 #### 开源
+- [unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow)
 - [vue-data-ui](https://vue-data-ui.graphieros.com/)

@@ -41,6 +41,7 @@
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 
 #### 开源
+- [x6](https://github.com/antvis/x6)
 - [autofit.js](https://github.com/Auto-Plugin/autofit.js)
 - [unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)

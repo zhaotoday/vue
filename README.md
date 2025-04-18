@@ -31,6 +31,7 @@
 - [vxe-pc-ui](https://github.com/x-extends/vxe-pc-ui)
 - [inspira-ui](https://inspira-ui.com/)
 - [vue-amazing-ui](https://themusecatcher.github.io/vue-amazing-ui/)
+- [tresjs](https://tresjs.org/)
 
 #### React UI 库
 - [9UI](https://www.9ui.dev/)

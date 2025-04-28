@@ -8,6 +8,7 @@
 - [alova](https://alova.js.org/zh-CN/)
 
 #### 文章
+- [整理一些好用的TS写法](https://juejin.cn/post/7495414240360169509)
 - [埋头苦干Vue3项目一年半，总结出了16个代码规范](https://juejin.cn/post/7473342501920915466)
 - [Vite6+Vue3.5+TS+Element-Plus打造企业级前端项目模版](https://juejin.cn/post/7477776486624575514)
 - [最近 React Scan 太火了，做了个 Vue Scan](https://juejin.cn/post/7444449353165488168)

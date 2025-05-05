@@ -8,6 +8,7 @@
 - [alova](https://alova.js.org/zh-CN/)
 
 #### 文章
+- [Vue 3中的高级轮询解决方案：usePoller组合式函数详解](https://juejin.cn/post/7480267450242285568)
 - [整理一些好用的TS写法](https://juejin.cn/post/7495414240360169509)
 - [埋头苦干Vue3项目一年半，总结出了16个代码规范](https://juejin.cn/post/7473342501920915466)
 - [Vite6+Vue3.5+TS+Element-Plus打造企业级前端项目模版](https://juejin.cn/post/7477776486624575514)

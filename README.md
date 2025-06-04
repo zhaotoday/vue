@@ -8,6 +8,7 @@
 - [alova](https://alova.js.org/zh-CN/)
 
 #### 文章
+- [救命！这10个Vue3技巧藏太深了！性能翻倍+摸鱼神器全揭秘](https://juejin.cn/post/7497102146380251177)
 - [尤雨溪宣布：Vue 生态正式引入 AI！](https://juejin.cn/post/7500248719310979122)
 - [Vue 3中的高级轮询解决方案：usePoller组合式函数详解](https://juejin.cn/post/7480267450242285568)
 - [整理一些好用的TS写法](https://juejin.cn/post/7495414240360169509)

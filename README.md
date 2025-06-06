@@ -6,6 +6,7 @@
 - [Vue3 入门指南与实战案例](https://vue3.chengpeiquan.com/)
 - [搞懂 vue3 中 v-model 的用法](https://juejin.cn/post/7225133152489750587)
 - [alova](https://alova.js.org/zh-CN/)
+- [learning-vue3](https://github.com/chengpeiquan/learning-vue3)
 
 #### 文章
 - [Renderless 思想正在影响前端开发](https://juejin.cn/post/7385752495535472655)

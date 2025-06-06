@@ -48,6 +48,7 @@
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 
 #### 开源
+- [vue-hooks-plus](https://inhiblabcore.github.io/vue-hooks-plus/zh/)
 - [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
 - [lucky-canvas](https://github.com/buuing/lucky-canvas)
 - [x6](https://github.com/antvis/x6)

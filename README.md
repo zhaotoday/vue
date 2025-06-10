@@ -26,6 +26,7 @@
 - [Alova.js 现代化请求库完全指南](https://juejin.cn/post/7485631488113918006)
 
 #### UI 库
+- [safha](https://safha.kalimah-apps.com/)
 - [primevue](https://primevue.org/)
 - [view-shadcn-ui](https://view-shadcn-ui.devlive.org/)
 - [opentiny](https://opentiny.design/)

@@ -52,6 +52,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)
 - [variant-form3-vite](https://github.com/vform666/variant-form3-vite)
 - [epic-designer](https://github.com/Kchengz/epic-designer)
 - [vtj.pro](https://www.vtj.pro/)

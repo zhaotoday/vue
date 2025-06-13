@@ -9,6 +9,7 @@
 - [learning-vue3](https://github.com/chengpeiquan/learning-vue3)
 
 #### 文章
+- [TypeScript+Vue3深度整合：类型推导与泛型组件](https://juejin.cn/post/7471463449459245106)
 - [Vue3 生态：10 个最强大的动效组件库！](https://juejin.cn/post/7502797938629410867)
 - [Renderless 思想正在影响前端开发](https://juejin.cn/post/7385752495535472655)
 - [救命！这10个Vue3技巧藏太深了！性能翻倍+摸鱼神器全揭秘](https://juejin.cn/post/7497102146380251177)

@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [veaury](https://github.com/gloriasoft/veaury)
 - [vue-interact](https://github.com/kimuraz/vue-interact)
 - [vue-component-type-helpers](https://www.npmjs.com/package/vue-component-type-helpers)
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)

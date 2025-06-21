@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [tmagic-editor](https://github.com/Tencent/tmagic-editor)
 - [form-create](https://github.com/xaboy/form-create)
 - [veaury](https://github.com/gloriasoft/veaury)
 - [vue-interact](https://github.com/kimuraz/vue-interact)

@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [lx-doc](https://github.com/wanglin2/lx-doc)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor)
 - [form-create](https://github.com/xaboy/form-create)

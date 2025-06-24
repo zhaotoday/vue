@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
 - [mind-map](https://github.com/wanglin2/mind-map)
 - [lx-doc](https://github.com/wanglin2/lx-doc)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design)

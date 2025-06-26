@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [TanStack/form](https://github.com/TanStack/form)
 - [electron-fabric-editor](https://github.com/Qiu-Jun/electron-fabric-editor)
 - [element-fabric-editor](https://github.com/Qiu-Jun/element-fabric-editor)
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)

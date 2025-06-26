@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)
 - [vue-konva](https://github.com/konvajs/vue-konva)
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
 - [mind-map](https://github.com/wanglin2/mind-map)

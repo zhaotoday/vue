@@ -56,6 +56,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue-konva](https://github.com/konvajs/vue-konva)
 - [Vue Vine](https://vue-vine.dev/zh/)
 - [fontaine](https://github.com/unjs/fontaine)
 - [TanStack/form](https://github.com/TanStack/form)

@@ -7,6 +7,7 @@
 - [搞懂 vue3 中 v-model 的用法](https://juejin.cn/post/7225133152489750587)
 - [alova](https://alova.js.org/zh-CN/)
 - [learning-vue3](https://github.com/chengpeiquan/learning-vue3)
+- [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
 - [Vue3项目投屏功能开发](https://juejin.cn/post/7490588889947865142)

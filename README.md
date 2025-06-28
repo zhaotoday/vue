@@ -10,6 +10,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [Vue3+TypeScript开发实战：解决日常开发的15个真实难题](https://juejin.cn/post/7478994020611981327)
 - [Vue3项目投屏功能开发](https://juejin.cn/post/7490588889947865142)
 - [TypeScript+Vue3深度整合：类型推导与泛型组件](https://juejin.cn/post/7471463449459245106)
 - [Vue3 生态：10 个最强大的动效组件库！](https://juejin.cn/post/7502797938629410867)

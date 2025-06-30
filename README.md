@@ -58,6 +58,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue3-gettext](https://github.com/jshmrtn/vue3-gettext)
 - [vue-konva](https://github.com/konvajs/vue-konva)
 - [Vue Vine](https://vue-vine.dev/zh/)
 - [fontaine](https://github.com/unjs/fontaine)

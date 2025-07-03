@@ -10,6 +10,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [全前端需要的工程化能力之 Vue3 + TypeScript + Vite 工程化项目搭建最佳实践](https://juejin.cn/post/7481117237729280000)
 - [前端如何优雅通知用户刷新页面？](https://juejin.cn/post/7439905609312403483)
 - [Vue3+TypeScript开发实战：解决日常开发的15个真实难题](https://juejin.cn/post/7478994020611981327)
 - [Vue3项目投屏功能开发](https://juejin.cn/post/7490588889947865142)

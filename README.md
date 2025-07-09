@@ -62,6 +62,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue-chat](https://github.com/wildfirechat/vue-chat)
 - [plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification)
 - [vue3-gettext](https://github.com/jshmrtn/vue3-gettext)
 - [vue-konva](https://github.com/konvajs/vue-konva)

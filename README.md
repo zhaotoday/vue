@@ -10,6 +10,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [小美老师，如何在开发中更加优雅的使用Vue3.0](https://juejin.cn/post/7408037561237159947)
 - [Vue3+NestJS 全栈开发企业级管理后台](https://juejin.cn/post/7431450163154042930)
 - [使用 @overlastic/vue 快速创建命令式模态框](https://juejin.cn/post/7398511534737047586)
 - [全前端需要的工程化能力之 Vue3 + TypeScript + Vite 工程化项目搭建最佳实践](https://juejin.cn/post/7481117237729280000)

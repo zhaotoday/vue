@@ -63,6 +63,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [leaferjs](https://www.leaferjs.com/)
 - [chat-uikit-vue](https://github.com/TencentCloud/chat-uikit-vue)
 - [form-create-designer](https://github.com/xaboy/form-create-designer)
 - [lemon-form](https://github.com/bojue/lemon-form)

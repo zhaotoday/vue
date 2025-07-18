@@ -67,6 +67,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce)
 - [pinia-orm](https://github.com/codedredd/pinia-orm)
 - [leaferjs](https://www.leaferjs.com/)
 - [chat-uikit-vue](https://github.com/TencentCloud/chat-uikit-vue)

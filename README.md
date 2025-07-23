@@ -67,6 +67,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [hevue-img-preview](https://github.com/heyongsheng/hevue-img-preview)
 - [pinia-undo](https://github.com/wobsoriano/pinia-undo)
 - [pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state)
 - [pinia-plugin-debounce](https://github.com/posva/pinia-plugin-debounce)

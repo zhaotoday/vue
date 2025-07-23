@@ -10,6 +10,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [前端组件库的多主题实现原理与实战指南](https://juejin.cn/post/7525726627956097087)
 - [在Vue中使用Excalidraw实现在线画板](https://juejin.cn/post/7439564558895513612)
 - [Vue内置指令v-once、v-memo和v-pre提升性能？](https://juejin.cn/post/7407340295115767808)
 - [VueUse 常用 Hooks 使用指南](https://juejin.cn/post/7523712612535713818)

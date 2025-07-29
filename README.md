@@ -10,6 +10,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [离谱！写了5年Vue，还不会自动化测试？](https://juejin.cn/post/7444521944457887759)
 - [前端权限系统怎么做才不会写吐？我们项目踩过的 3 套失败方案总结](https://juejin.cn/post/7517915625136586787)
 - [前端组件库的多主题实现原理与实战指南](https://juejin.cn/post/7525726627956097087)
 - [在Vue中使用Excalidraw实现在线画板](https://juejin.cn/post/7439564558895513612)

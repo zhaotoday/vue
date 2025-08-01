@@ -71,6 +71,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vee-validate](https://github.com/logaretm/vee-validate)
 - [tiny-search-box](https://opentiny.github.io/tiny-search-box/)
 - [vue-bits](https://vue-bits.dev/)
 - [fesjs](https://fesjs.mumblefe.cn/)

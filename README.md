@@ -71,6 +71,7 @@
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 
 #### 开源
+- [vue3-turbo-component-lib-template](https://github.com/huangmingfu/vue3-turbo-component-lib-template)
 - [vee-validate](https://github.com/logaretm/vee-validate)
 - [tiny-search-box](https://opentiny.github.io/tiny-search-box/)
 - [vue-bits](https://vue-bits.dev/)

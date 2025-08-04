@@ -73,6 +73,7 @@
 - [vue3-turbo-component-lib-template](https://github.com/huangmingfu/vue3-turbo-component-lib-template)
 - [vue3-h5-template](https://github.com/yulimchen/vue3-h5-template)
 - [storybook](https://github.com/storybookjs/storybook)
+- [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
 - [vee-validate](https://github.com/logaretm/vee-validate)

@@ -70,6 +70,7 @@
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 - [vue3-turbo-component-lib-template](https://github.com/huangmingfu/vue3-turbo-component-lib-template)
+- [vue3-h5-template](https://github.com/yulimchen/vue3-h5-template)
 
 #### 开源
 - [vee-validate](https://github.com/logaretm/vee-validate)

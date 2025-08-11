@@ -79,6 +79,7 @@
 - [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
+- [LogicFlow](https://github.com/didi/LogicFlow)
 - [vee-validate](https://github.com/logaretm/vee-validate)
 - [tiny-search-box](https://opentiny.github.io/tiny-search-box/)
 - [vue-bits](https://vue-bits.dev/)

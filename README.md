@@ -80,6 +80,7 @@
 - [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
+- [vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll)
 - [LogicFlow](https://github.com/didi/LogicFlow)
 - [vee-validate](https://github.com/logaretm/vee-validate)
 - [tiny-search-box](https://opentiny.github.io/tiny-search-box/)

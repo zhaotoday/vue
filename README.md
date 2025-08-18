@@ -82,6 +82,7 @@
 - [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
+- [vue-scan](https://github.com/zcf0508/vue-scan)
 - [TanStack/query](https://github.com/TanStack/query)
 - [vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll)
 - [LogicFlow](https://github.com/didi/LogicFlow)

@@ -84,6 +84,7 @@
 - [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
+- [tiny-pro](https://github.com/opentiny/tiny-pro)
 - [lowflow-design](https://github.com/tsai996/lowflow-design)
 - [vue-scan](https://github.com/zcf0508/vue-scan)
 - [TanStack/query](https://github.com/TanStack/query)

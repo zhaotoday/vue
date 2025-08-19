@@ -88,6 +88,7 @@
 - [turborepo](https://github.com/vercel/turborepo)
 
 #### 开源
+- [PosterKit](https://github.com/Fairfarren/PosterKit)
 - [vue-transitions](https://github.com/MorevM/vue-transitions)
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
 - [portal-vue](https://github.com/LinusBorg/portal-vue)

@@ -1,4 +1,5 @@
 #### 文档
+- [vue-plugins](https://www.vue-plugins.org/)
 - [Vue 中文文档](https://cn.vuejs.org/)
 - [Vue Hooks Plus](https://inhiblabcore.github.io/docs/hooks/)
 - [VueUse 中文文档](https://www.vueusejs.com/)

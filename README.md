@@ -11,6 +11,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [npm多组件发布Vue3+TS版本，快来像Antd一样搭建属于你的UI库吧](https://juejin.cn/post/7543595560382791734)
 - [前端大佬都在用的usePagination究竟有多强？](https://juejin.cn/post/7426319406358511651)
 - [还在手动上传 Vue 项目 dist 目录？这五种快捷部署方案速来！](https://juejin.cn/post/7469410863369011251)
 - [从零开始：用 vue 3 + pnpm 打造高效的 Monorepo 项目架构 🦄](https://juejin.cn/post/7415776780076105779)

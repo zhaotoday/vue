@@ -87,6 +87,7 @@
 - [vue3-h5-template](https://github.com/yulimchen/vue3-h5-template)
 - [storybook](https://github.com/storybookjs/storybook)
 - [turborepo](https://github.com/vercel/turborepo)
+- [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
 - [PosterKit](https://github.com/Fairfarren/PosterKit)

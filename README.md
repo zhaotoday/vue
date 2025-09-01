@@ -90,6 +90,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue3-jsoneditor](https://github.com/bestkolobok/vue3-jsoneditor)
 - [PosterKit](https://github.com/Fairfarren/PosterKit)
 - [vue-transitions](https://github.com/MorevM/vue-transitions)
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)

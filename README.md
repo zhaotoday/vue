@@ -91,6 +91,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
 - [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole)
 - [vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode)
 - [visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)

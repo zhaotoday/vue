@@ -91,6 +91,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode)
 - [visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)
 - [vue-mute-table](https://github.com/MrXujiang/vue-mute-table)
 - [cad-viewer](https://github.com/mlight-lee/cad-viewer)

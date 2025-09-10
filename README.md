@@ -92,6 +92,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [tinyflow](https://github.com/tinyflow-ai/tinyflow)
 - [vite-aliases](https://github.com/Subwaytime/vite-aliases)
 - [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile)
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)

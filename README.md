@@ -86,6 +86,7 @@
 
 #### 模板
 - [mobvue](https://github.com/un-pany/mobvue)
+- [vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile)
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)
 - [vue3-turbo-component-lib-template](https://github.com/huangmingfu/vue3-turbo-component-lib-template)

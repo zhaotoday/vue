@@ -96,6 +96,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue3-google-login](https://github.com/devbaji/vue3-google-login)
 - [tinyflow](https://github.com/tinyflow-ai/tinyflow)
 - [vite-aliases](https://github.com/Subwaytime/vite-aliases)
 - [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile)

@@ -101,6 +101,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [Vue-Command-Component](https://github.com/slothvips/Vue-Command-Component)
 - [vidstack player](https://vidstack.io/docs/player/getting-started/installation/vue/)
 - [vueform](https://vueform.com/)
 - [Code Inspector](https://inspector.fe-dev.cn/)

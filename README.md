@@ -101,6 +101,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vidstack player](https://vidstack.io/docs/player/getting-started/installation/vue/)
 - [vueform](https://vueform.com/)
 - [Code Inspector](https://inspector.fe-dev.cn/)
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel)

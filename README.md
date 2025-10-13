@@ -102,6 +102,8 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+- [vue-virt-list](https://github.com/kolarorz/vue-virt-list)
 - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay)
 - [Vue-Command-Component](https://github.com/slothvips/Vue-Command-Component)
 - [vidstack player](https://vidstack.io/docs/player/getting-started/installation/vue/)

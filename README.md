@@ -11,6 +11,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [Vue3 开发必备：20 个实用技巧](https://juejin.cn/post/7524266104132108307)
 - [还在手动加载全部组件？这招让Vue应用性能飙升200%！](https://juejin.cn/post/7549314246204522506)
 - [vite6+vue3+ts+prettier+husky9+lint-staged+eslint9配置前端项目（后台管理系统、移动端H5项目通用配置）](https://juejin.cn/post/7496390589211197455)
 - [Vue+JSX真香现场：告别模板语法，解锁新姿势！](https://juejin.cn/post/7532593586513461299)

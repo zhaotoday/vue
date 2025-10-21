@@ -104,6 +104,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
 - [overlastic](https://github.com/hairyf/overlastic)
 - [vant4-kit](https://github.com/mitjs/vant4-kit)
 - [phone-ui-vue](https://github.com/scqilin/phone-ui-vue)

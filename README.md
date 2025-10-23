@@ -11,6 +11,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [让我看看有多少人不知道Vue3中也能实现高阶组件HOC](https://juejin.cn/post/7456407980550324250)
 - [🍐 Vue3 优雅的二次封装组件！](https://juejin.cn/post/7503165137374134299)
 - [Vue-Command-Component：让弹窗开发不再繁琐](https://juejin.cn/post/7501963430640615436)
 - [🔥Vue 3.4 的 defineModel：让双向绑定从未如此简单](https://juejin.cn/post/7533067837528850458)

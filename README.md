@@ -108,6 +108,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [google-translate-select](https://github.com/i7eo/google-translate-select)
 - [vue-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/vue-imask)
 - [vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
 - [overlastic](https://github.com/hairyf/overlastic)

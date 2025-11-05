@@ -11,6 +11,7 @@
 - [搭配 TypeScript 使用 Vue](https://cn.vuejs.org/guide/typescript/overview)
 
 #### 文章
+- [如何在 Vue 项目的 template 中使用 JSX](https://juejin.cn/post/7543846138358808576)
 - [使用imaskjs实现js表单输入卡号/日期/货币等掩码的教程](https://juejin.cn/post/7563190036532871231)
 - [分享VUE3编写组件高级技巧，优雅！](https://juejin.cn/post/7450836153258049572)
 - [让我看看有多少人不知道Vue3中也能实现高阶组件HOC](https://juejin.cn/post/7456407980550324250)

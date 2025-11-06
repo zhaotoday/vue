@@ -68,6 +68,7 @@
 - [alova 3.3.0 发布：开发体验提升的重大更新](https://juejin.cn/post/7514260735938068495)
 
 #### UI 库
+- [Versakit-Vue](https://github.com/Versakit/Versakit-Vue)
 - [ark-ui](https://ark-ui.com/)
 - [primitives](https://github.com/oku-ui/primitives)
 - [ui-thing](https://github.com/BayBreezy/ui-thing)

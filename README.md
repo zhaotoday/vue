@@ -117,6 +117,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue-pc-chat](https://github.com/wildfirechat/vue-pc-chat)
 - [google-translate-select](https://github.com/i7eo/google-translate-select)
 - [vue-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/vue-imask)
 - [vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)

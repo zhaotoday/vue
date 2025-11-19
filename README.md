@@ -117,6 +117,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [X-Flowchart-Vue](https://oxoyo.co/X-Flowchart-Vue/)
 - [number-flow](https://number-flow.barvian.me/vue/examples)
 - [vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat)
 - [im-server](https://github.com/wildfirechat/im-server)

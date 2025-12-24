@@ -109,6 +109,7 @@
 #### 模板
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template)
 - [mobvue](https://github.com/un-pany/mobvue)
+- [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 - [vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile)
 - [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile)
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)

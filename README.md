@@ -120,6 +120,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vfit](https://github.com/v-plugin/vfit)
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue)
 - [X-Flowchart-Vue](https://oxoyo.co/X-Flowchart-Vue/)
 - [number-flow](https://number-flow.barvian.me/vue/examples)

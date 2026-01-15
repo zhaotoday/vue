@@ -122,6 +122,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue3-tree-org](https://github.com/sangtian152/vue3-tree-org)
 - [vfit](https://github.com/v-plugin/vfit)
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue)
 - [X-Flowchart-Vue](https://oxoyo.co/X-Flowchart-Vue/)

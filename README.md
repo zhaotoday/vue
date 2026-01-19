@@ -123,6 +123,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [universal-waterfall-layout](https://www.npmjs.com/package/universal-waterfall-layout)
 - [password-xl](https://github.com/peng0105/password-xl)
 - [vue3-tree-org](https://github.com/sangtian152/vue3-tree-org)
 - [vfit](https://github.com/v-plugin/vfit)

@@ -123,6 +123,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vue-esign](https://github.com/JaimeCheng/vue-esign)
 - [elevenlabs-ui-vue](https://github.com/vuepont/elevenlabs-ui-vue)
 - [vite-ssg](https://github.com/antfu-collective/vite-ssg)
 - [universal-waterfall-layout](https://www.npmjs.com/package/universal-waterfall-layout)

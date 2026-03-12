@@ -123,6 +123,11 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [vxe-admin-template](https://github.com/x-extends/vxe-admin-template)
+- [xe-utils](https://github.com/x-extends/xe-utils)
+- [vxe-table](https://github.com/x-extends/vxe-table)
+- [plugin-export-xlsx](https://github.com/x-extends/vxe-ui-plugins/tree/main/plugin-export-xlsx)
+- [plugin-render-element](https://github.com/x-extends/vxe-ui-plugins/tree/main/plugin-render-element)
 - [vue-esign](https://github.com/JaimeCheng/vue-esign)
 - [elevenlabs-ui-vue](https://github.com/vuepont/elevenlabs-ui-vue)
 - [vite-ssg](https://github.com/antfu-collective/vite-ssg)

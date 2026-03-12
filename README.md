@@ -123,6 +123,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [relation-graph](https://github.com/seeksdream/relation-graph)
 - [vxe-admin-template](https://github.com/x-extends/vxe-admin-template)
 - [xe-utils](https://github.com/x-extends/xe-utils)
 - [vxe-table](https://github.com/x-extends/vxe-table)

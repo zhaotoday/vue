@@ -124,6 +124,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [Vue-Print-Designer](https://github.com/0ldFive/Vue-Print-Designer)
 - [code-inspector](https://github.com/zh-lx/code-inspector)
 - [relation-graph](https://github.com/seeksdream/relation-graph)
 - [vxe-admin-template](https://github.com/x-extends/vxe-admin-template)

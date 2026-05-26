@@ -124,6 +124,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [pinia-colada](https://github.com/posva/pinia-colada)
 - [unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown)
 - [Vue-Print-Designer](https://github.com/0ldFive/Vue-Print-Designer)
 - [code-inspector](https://github.com/zh-lx/code-inspector)

@@ -124,6 +124,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [number-flow](https://github.com/barvian/number-flow)
 - [vue-tui](https://github.com/Simon-He95/vue-tui)
 - [vue-tui](https://github.com/vuejs-ai/vue-tui)
 - [three-vue-tres](https://github.com/hawk86104/three-vue-tres)

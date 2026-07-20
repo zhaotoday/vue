@@ -124,6 +124,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [handsontable](https://github.com/handsontable/handsontable)
 - [vue-sonner](https://github.com/xiaoluoboding/vue-sonner)
 - [number-flow](https://github.com/barvian/number-flow)
 - [vue-tui](https://github.com/Simon-He95/vue-tui)

@@ -124,6 +124,7 @@
 - [wot-starter](https://github.com/wot-ui/wot-starter)
 
 #### 开源
+- [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp)
 - [handsontable](https://github.com/handsontable/handsontable)
 - [vue-sonner](https://github.com/xiaoluoboding/vue-sonner)
 - [number-flow](https://github.com/barvian/number-flow)
